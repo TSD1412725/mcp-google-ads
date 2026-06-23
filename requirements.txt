@@ -13,3 +13,4 @@ python-dotenv>=1.0.0
 # Optional visualization dependencies
 matplotlib>=3.7.3
 pandas>=2.1.4
+uvicorn
